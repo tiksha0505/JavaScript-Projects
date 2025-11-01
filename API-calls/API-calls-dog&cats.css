@@ -1,0 +1,63 @@
+.catFacts{
+    background-color: #A8C793;
+    border: 2px solid black;
+    border-radius: 2rem;
+    width: 50%;
+    height: 25rem;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    color: #1E3D34;
+}
+
+.dogImg {
+    background-color: #ECE0CF;
+    border: 2px solid black;
+    border-radius: 2rem;
+    width: 50%;
+    height: 25rem;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    color:  #3B2B28;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.btn{
+    padding: 0.5rem;
+    border: none;
+    border: 2px solid;
+    border-radius: 1rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    font-size: 1.05rem;
+}
+
+#btnDog{
+    background-color: #4B3832;
+    color: #ECE0CF;
+}
+
+#btnCat{
+    background-color: #1B3B2F;
+    color: #A8C793;
+}
+#image{
+    height: 15rem;
+    margin: 0.5rem;
+    border: 2px black solid;
+    border-radius: 2rem;
+    padding: 0.5rem;
+}
+
+#facts{
+    border: 2px black solid;
+    border-radius: 2rem;
+    height: 11rem;
+    padding: 2rem;
+}

@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    background-color: #E3E8E9;
+    font-family: "Yatra One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div{
+    height: 20rem;
+    width: 70%;
+    border: 2px solid black;
+    border-radius: 1rem;
+    margin: auto;
+    font-size: 1.5rem;
+}
+
+button{
+    border: none;
+    padding: 1rem;
+    background-color: #970C10;
+    color: #E3E8E9;
+    font-size: 1.25rem;
+    font-weight: 500;
+    border-radius: 2.5rem;
+    cursor: pointer;
+}
