@@ -1,4 +1,4 @@
-Random Cat Facts & Dog Images Web App 
+# Random Cat Facts & Dog Images Web App 
 
 This is a simple web application that fetches random cat facts and random dog images using public APIs. It’s built using HTML, CSS, and JavaScript with Axios for API requests.
 
