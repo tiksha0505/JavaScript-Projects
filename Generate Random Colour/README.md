@@ -9,6 +9,7 @@ This is a small web application that generates random colors and displays them o
 4. Clean and responsive design.
 
 - Demo
+
 Open the index.html file in your browser to try it out locally.
 You can click the “Generate color” button multiple times to see new colors.
 
