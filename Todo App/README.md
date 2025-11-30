@@ -9,7 +9,7 @@ A simple Todo List web application built to practice HTML, CSS, and JavaScript. 
 4. Simple, clean, and colorful interface.
 
 - Demo / How to Run
-1. Open the index.html file in your browser.
+1. Open the html file in your browser.
 2. Type a task and click Add task to create a new item.
 3. Check the box to mark a task complete
 4. Click Delete to remove a task.
