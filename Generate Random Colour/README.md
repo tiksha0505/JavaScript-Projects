@@ -23,5 +23,5 @@ You can click the “Generate color” button multiple times to see new colors.
 
 The button triggers a click event using JavaScript.
 When clicked, the getRandomColor() function generates random RGB values.
-The generated color is displayed as text in the <h2> element. 
-The <div> background color changes to the generated color, giving a live preview.
+The generated color is displayed as text in the h2 element. 
+The div background color changes to the generated color, giving a live preview.
