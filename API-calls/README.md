@@ -16,8 +16,8 @@ This is a simple web application that fetches random cat facts and random dog im
 
 - Public APIs:
 
-1. Cat Facts API – Fetch random cat facts.
-2. Dog CEO API – Fetch random dog images.
+1. Cat Facts API (https://catfact.ninja/fact) – Fetch random cat facts.
+2. Dog CEO API (https://dog.ceo/dog-api/) – Fetch random dog images.
 
 - How It Works
 
