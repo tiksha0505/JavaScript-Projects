@@ -16,7 +16,7 @@ Each project contains its own README.md with detailed setup instructions and exp
 
 These projects were specially developed to provide hands-on experience with core JavaScript concepts, helping build confidence in creating interactive web applications.
 
-
+-----------------------------------
 
 Algorithm: Basic Text Processing (Normalization & Tokenization)
 Require: Raw Document D, Punctuation Removal Flag P
